@@ -1,0 +1,5 @@
+Alur Verifikasi Vaksinasi Bagi WNI dan WNA yang Divaksinasi di Luar Negeri
+WNI dan WNA yang divaksinasi di luar negeri tetap bisa mendapatkan sertifikat vaksinasi yang terintegrasi dengan aplikasi PeduliLindungi.
+Alur verifikasi vaksinasi adalah dengan mengajukan verifikasi melalui situs web https://vaksinln.dto.kemkes.go.id/sign/in dengan mendaftar terlebih dulu. Setelahnya Data Individu dan Vaksinasi diverifikasi oleh Kementerian Kesehatan (bagi WNI) dan oleh masing-masing kedutaan (bagi WNA).
+Hasil verifikasi akan dikonfirmasi melalui email, lalu pihak yang mengajukan dapat mendaftar dan login di aplikasi PeduliLindungi, melengkapi data akun untuk aktifkan Status Vaksinasi, dan dapatkan Kartu Verifikasi Vaksinasi dengan masuk ke web https://pedulilindungi.id. Pilih menu Cek Sertifikat dan lengkapi data yang dibutuhkan untuk mengeceknya. Setelah itu, bisa membuka aplikasi PeduliLindungi dan pilih Scan QR Code untuk check in.
+Fitur verifikasi ini diharapkan memudahkan WNI maupun WNA yang vaksinasi di luar negeri untuk bisa mengakses fasilitas publik dengan aplikasi PeduliLindungi.
